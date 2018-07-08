@@ -2,6 +2,16 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:BullsEye.xcodeproj">
+      location = "group:/Users/ayubdahir/Desktop/IOS Course/BullsEye game project/BullsEye/BullsEye/BullsEye.html">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/ayubdahir/Desktop/profilePic.JPG">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "New Group">
+   </Group>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
